@@ -1,5 +1,9 @@
 {
-  "version": "2.4.5",
+  "version": "2.4.6",
   "apkUrl": "https://github.com/moohhiit/stamploop_apk/releases/download/v2.4.5/StampCloud.apk",
-  "releaseNotes": "Update Events , Smooth Nevigation"
+  "releaseNotes": "Update Events , Smooth Nevigation",
+  "apk_url": "https://github.com/moohhiit/stamploop_apk/releases/download/v2.4.6/StampCloud",
+  "changes": [
+    "Update Security"
+  ]
 }
