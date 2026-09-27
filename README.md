@@ -1,1 +1,1 @@
-# stamploop_apk
+StampCloud
